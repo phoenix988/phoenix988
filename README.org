@@ -1,0 +1,3 @@
+#+title: Karl Fredin
+#+DESCRIPTION: About My Process
+#+author: Karl Fredin
