@@ -13,7 +13,7 @@
 
 | Repository    | Usage                          |
 |---------------+--------------------------------|
-| Azla          | Language Learning              |
+| [[azla]]          | Language Learning              |
 | Dotfiles      | Manage My config files         |
 | Dmscripts     | Useful Run Meny scripts        |
 | Wallpapers    | Some nice wallpapers           |
