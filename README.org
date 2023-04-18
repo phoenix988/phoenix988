@@ -1,3 +1,6 @@
 #+title: Karl Fredin
 #+DESCRIPTION: About My Process
 #+author: Karl Fredin
+
+
+[[file:./images/git-profile-banner.png]]
