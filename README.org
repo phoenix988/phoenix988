@@ -13,7 +13,7 @@
 
 | Repository    | Usage                          |
 |---------------+--------------------------------|
-| [[azla]]          | Language Learning              |
+| [[https://github.com/phoenix988/azla][azla]]          | Language Learning              |
 | Dotfiles      | Manage My config files         |
 | Dmscripts     | Useful Run Meny scripts        |
 | Wallpapers    | Some nice wallpapers           |
