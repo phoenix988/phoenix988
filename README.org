@@ -17,7 +17,7 @@
 | [[https://github.com/phoenix988/dotfiles][Dotfiles]]      | Manage My config files         |
 | [[https://github.com/phoenix988/dmscripts][Dmscripts]]     | Useful Run Meny scripts        |
 | [[https://github.com/phoenix988/wallpapers][Wallpapers]]    | Some nice wallpapers           |
-| [[https://github.com/phoenix988/setup][Setup]]         | Automation Script              |
+| [[https://github.com/phoenix988/setup][Setup]]         | Automation Script (DONT USE!)  |
 | [[https://github.com/phoenix988/slock-phoenix][Slock-Phoenix]] | Normal slock with some patches |
 
 
