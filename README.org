@@ -3,4 +3,6 @@
 #+author: Karl Fredin
 
 
+* WELCOME TO MY PROFILE!
+
 [[file:./images/git-profile-banner.png]]
