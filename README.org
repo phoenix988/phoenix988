@@ -6,3 +6,30 @@
 * WELCOME TO MY PROFILE!
 
 [[file:./images/git-profile-banner.png]]
+
+
+
+** MY REPOSITORIES
+
+| Repository    | Usage                          |
+|---------------+--------------------------------|
+| Azla          | Language Learning              |
+| Dotfiles      | Manage My config files         |
+| Dmscripts     | Useful Run Meny scripts        |
+| Wallpapers    | Some nice wallpapers           |
+| Setup         | Automation Script              |
+| Slock-phoenix | Normal slock with some patches |
+
+
+** SOFTWARE I USE
+*** Window Managers
+|-------+----------|
+| Qtile | Hyprland |
+
+*** Text Editors
+|------------+--------|
+| Doom Emacs | Neovim |
+
+*** Other Things I Use
+|----------+------|
+| Kdenlive | Gimp |
