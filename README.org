@@ -14,17 +14,20 @@
 | Repository    | Usage                          |
 |---------------+--------------------------------|
 | [[https://github.com/phoenix988/azla][Azla]]          | Language Learning              |
-| [[https://github.com/phoenix988/dotfiles][Dotfiles]]      | Manage My config files         |
 | [[https://github.com/phoenix988/dmscripts][Dmscripts]]     | Useful Run Meny scripts        |
-| [[https://github.com/phoenix988/wallpapers][Wallpapers]]    | Some nice wallpapers           |
+| [[https://github.com/phoenix988/dotfiles][Dotfiles]]      | Manage My config files         |
+| [[https://github.com/phoenix988/hyprland][Hyprland]]      | Hyprland WindowManager         |
 | [[https://github.com/phoenix988/setup][Setup]]         | Automation Script (DONT USE!)  |
 | [[https://github.com/phoenix988/slock-phoenix][Slock-Phoenix]] | Normal slock with some patches |
+| [[https://github.com/phoenix988/wallpapers][Wallpapers]]    | Some nice wallpapers           |
 
 
 ** SOFTWARE I USE
 *** Window Managers
 |-------+----------|
 | Qtile | Hyprland |
+
+[[file:./images/hyprland-desktop.png]]
 
 *** Text Editors
 |------------+--------|
