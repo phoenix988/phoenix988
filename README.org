@@ -23,16 +23,21 @@
 
 
 ** SOFTWARE I USE
-*** Window Managers
+*** WINDOW MANAGERS
 |-------+----------|
 | Qtile | Hyprland |
 
+**** HYPRLAND
 [[file:./images/hyprland-desktop.png]]
 
-*** Text Editors
+
+**** QTILE
+[[file:./images/qtile.png]]
+
+*** TEXT EDITORS
 |------------+--------|
 | Doom Emacs | Neovim |
 
-*** Other Things I Use
+*** OTHER THINGS I USE
 |----------+------|
 | Kdenlive | Gimp |
