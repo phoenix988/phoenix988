@@ -38,6 +38,8 @@
 |------------+--------|
 | Doom Emacs | Neovim |
 
+[[file:./images/nvim-doom.png]]
+
 *** OTHER THINGS I USE
 |----------+------|
 | Kdenlive | Gimp |
