@@ -18,9 +18,9 @@
 | [[https://github.com/phoenix988/dotfiles][Dotfiles]]      | Manage my config files         |
 | [[https://github.com/phoenix988/hyprland][Hyprland]]      | Hyprland windowManager         |
 | [[https://github.com/phoenix988/dotfiles/tree/neovim][Neovim]]        | Neovim editor                  |
-| [[https://github.com/phoenix988/dotfiles/tree/qtile][Qtle]]          | Qtile editor                   |
 | [[https://github.com/phoenix988/setup][Setup]]         | Automation script (DONT USE!)  |
 | [[https://github.com/phoenix988/slock-phoenix][Slock-Phoenix]] | Normal slock with some patches |
+| [[https://github.com/phoenix988/dotfiles/tree/qtile][Qtile]]         | Qtile editor                   |
 | [[https://github.com/phoenix988/wallpapers][Wallpapers]]    | Some nice wallpapers           |
 
 
