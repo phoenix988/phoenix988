@@ -11,23 +11,25 @@
 
 ** MY REPOSITORIES
 
-| Repository    | Usage                          |
-|---------------+--------------------------------|
-| [[https://github.com/phoenix988/azla][Azla]]          | Language learning              |
-| [[https://github.com/phoenix988/dmscripts][Dmscripts]]     | Useful run Meny scripts        |
-| [[https://github.com/phoenix988/dotfiles][Dotfiles]]      | Manage my config files         |
-| [[https://github.com/phoenix988/hyprland][Hyprland]]      | Hyprland windowManager         |
-| [[https://github.com/phoenix988/dotfiles/tree/neovim][Neovim]]        | Neovim editor                  |
-| [[https://github.com/phoenix988/setup][Setup]]         | Automation script (DONT USE!)  |
-| [[https://github.com/phoenix988/slock-phoenix][Slock-Phoenix]] | Normal slock with some patches |
-| [[https://github.com/phoenix988/dotfiles/tree/qtile][Qtile]]         | Qtile editor                   |
-| [[https://github.com/phoenix988/wallpapers][Wallpapers]]    | Some nice wallpapers           |
+| Repository    | Usage                               |
+|---------------+-------------------------------------|
+| [[https://github.com/phoenix988/azla][Azla]]          | Language learning                   |
+| [[https://github.com/phoenix988/awesome][Awesome]]       | awesome window Manager              |
+| [[https://github.com/phoenix988/dmscripts][Dmscripts]]     | Useful run Meny scripts             |
+| [[https://github.com/phoenix988/dotfiles][Dotfiles]]      | Manage my config files              |
+| [[https://github.com/phoenix988/fonts][Fonts]]         | Collection of fonts                 |
+| [[https://github.com/phoenix988/hyprland][Hyprland]]      | Hyprland window Manager             |
+| [[https://github.com/phoenix988/dotfiles/tree/neovim][Neovim]]        | Neovim editor                       |
+| [[https://github.com/phoenix988/setup][Setup]]         | Automation script (DONT USE!)       |
+| [[https://github.com/phoenix988/slock-phoenix][Slock-Phoenix]] | Normal slock with some patches      |
+| [[https://github.com/phoenix988/dotfiles/tree/qtile][Qtile]]         | Qtile editor                        |
+| [[https://github.com/phoenix988/wallpapers][Wallpapers]]    | Collection of wallpapers wallpapers |
 
 
 ** SOFTWARE I USE
 *** WINDOW MANAGERS
-|-------+----------|
-| Qtile | Hyprland |
+|-------+----------+---------|
+| Qtile | Hyprland | Awesome |
 
 **** HYPRLAND
 [[file:./images/hyprland-desktop.png]]
