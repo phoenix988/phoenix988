@@ -14,7 +14,7 @@
 | Repository    | Usage                               |
 |---------------+-------------------------------------|
 | [[https://github.com/phoenix988/azla][Azla]]          | Language learning                   |
-| [[https://github.com/phoenix988/awesome][Awesome]]       | awesome window Manager              |
+| [[https://github.com/phoenix988/awesome][Awesome]]       | Awesome window Manager              |
 | [[https://github.com/phoenix988/dmscripts][Dmscripts]]     | Useful run Meny scripts             |
 | [[https://github.com/phoenix988/dotfiles][Dotfiles]]      | Manage my config files              |
 | [[https://github.com/phoenix988/fonts][Fonts]]         | Collection of fonts                 |
