@@ -32,7 +32,7 @@
 | Qtile | Hyprland | Awesome |
 
 **** HYPRLAND
-[[file:./images/hyprland-desktop.png]]
+[[file:./images/hyprland-desktop-nord.jpeg]]
 
 
 **** QTILE
